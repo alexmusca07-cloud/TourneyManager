@@ -1,1 +1,10 @@
 /bin/
+# Base de datos local
+*.db
+
+# Salidas de compilación y empaquetado
+build/
+dist/
+
+# Configuración local de NetBeans
+nbproject/private/
